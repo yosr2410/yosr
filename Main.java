@@ -1,3 +1,5 @@
+import outils.Personnes;
+
 public class Main {
     public static void main(String[] args) {
         /** Lorsqu'on déclare une variable de type objet, on dit que l'on fait une INSTANCIATION.
